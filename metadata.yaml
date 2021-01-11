@@ -1,0 +1,29 @@
+_repo: La-simulacion-en-la-lucha-por-la-vida_64188
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ingenieros, José
+    aliases:
+    - Ingenieros, Jose
+    - Ingegnieros, José
+    - Ingegnieri, Giuseppe
+    - Ingegnieros, Joseph
+    - Ingegnieros, Giuseppe
+    birthdate: 1877
+    deathdate: 1925
+    gutenberg_agent_id: '47499'
+    url: http://www.gutenberg.org/2009/agents/47499
+    wikipedia: https://es.wikipedia.org/wiki/Jos%C3%A9_Ingenieros
+description: ''
+gutenberg_issued: '2020-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64188'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La simulación en la lucha por la vida
+url: http://www.gutenberg.org/ebooks/64188
